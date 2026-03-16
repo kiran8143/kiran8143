@@ -88,17 +88,33 @@ I don't just understand technology — I understand the **business context** tha
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiran8143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=0f3460&text_color=a8dadc&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran8143&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8dadc" width="48%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiran8143&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=10" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiran8143&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10&langs_count=8" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran8143&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8dadc" width="60%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kiran8143&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&border_radius=10" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran8143&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&hide_border=true&radius=10" width="95%"/>
+
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kiran8143&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1" width="95%"/>
+
+</div>
 
 - 🎤 **Represented BranchX** at Global Fintech Fest 2025 (Mumbai) as Principal Architect
 - 🏗️ **Architected Xenie** — India's first voice-first AI POS system powering millions of retailers
