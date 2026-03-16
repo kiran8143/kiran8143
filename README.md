@@ -1,10 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uday%20Kiran&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Principal%20Architect%20%7C%20AI%2FML%20%7C%20LLM%20%7C%20Agentic%20AI%20%7C%20Cloud-Native&descAlignY=58&descSize=18&descFontColor=c9d6df" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Uday%20Kiran&fontSize=55&fontColor=fff&fontAlignY=38&desc=Principal%20Architect%20%7C%20AI%2FML%20%7C%20LLM%20%7C%20Agentic%20AI%20%7C%20Cloud-Native&descAlignY=58&descSize=18&descFontColor=c9d6df" alt="Uday Kiran — Principal Architect"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-kiran-a8a784b3)
 [![Profile Views](https://komarev.com/ghpvc/?username=kiran8143&label=Profile%20Views&color=0f2027&style=for-the-badge)](https://github.com/kiran8143)
 [![GitHub Followers](https://img.shields.io/github/followers/kiran8143?label=Followers&style=for-the-badge&color=203a43)](https://github.com/kiran8143)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+> **Principal Architect** with 10+ years designing enterprise-grade, cloud-native platforms across **Fintech · Airline · Retail · E-commerce · Hospitality · Supply Chain** domains.
+
+I don't just understand technology — I understand the **business context** that technology has to serve. From architecting one of the world's largest airline fare consolidation middleware systems to building **AI-native retail infrastructure** where LLMs and agentic systems become the operating layer of real businesses — I bring rare cross-domain depth to every architectural decision.
+
+- 🏪 Currently building **Xenie** — an LLM-powered, voice-first AI operating system for retail at **BranchX**
+- 🧬 Deep expertise in **LLM Systems, RAG Pipelines, Agentic AI Frameworks, Voice AI & Speaker Identification**
+- ✈️ Built large-scale **airline fare consolidation** middleware at Mystifly (200+ airlines, 1000+ travel agencies)
+- 🛒 Architected **retail & e-commerce intelligence** platforms with AI-driven demand forecasting & recommendations
+- 🏦 Designed **neobanking & embedded finance** platforms with real-time payment rails and compliance-grade systems
+- 📦 Built **supply chain & distributor-retailer data networks** for India's MSME ecosystem
+- ☁️ Cloud-native on **AWS & Azure** — microservices, event-driven, Kubernetes, serverless
+- 🚀 Releasing new **AI projects** regularly — LLM APIs, Agentic frameworks, Cloud-native patterns
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / ML / LLM**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+**Full Stack**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+---
+
+## 🏭 Industry Expertise
+
+| Domain | Key Contributions |
+|--------|------------------|
+| ✈️ **Airlines** | Fare consolidation middleware — 200+ airlines, 1000+ agencies (Mystifly) |
+| 🛒 **Retail & E-commerce** | AI-native POS, demand forecasting, inventory intelligence |
+| 🏦 **Fintech & Banking** | Neobanking core, embedded finance, real-time payment rails (BranchX) |
+| 🏨 **Hospitality** | Channel management, booking intelligence, revenue optimization |
+| 📦 **Supply Chain** | Distributor-retailer networks, MSME data platforms |
+| ⚙️ **Salesforce Automation** | CRM-driven sales intelligence, field automation, lead scoring |
+
+---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+</div>
+
+<div align="center">
+
+# 👋 Hi, I'm **Uday Kiran**
+
+**Principal Architect &nbsp;|&nbsp; AI/ML &nbsp;·&nbsp; LLM &nbsp;·&nbsp; Agentic AI &nbsp;·&nbsp; Cloud-Native**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-kiran-a8a784b3)
+[![Profile Views](https://komarev.com/ghpvc/?username=kiran8143&label=Profile%20Views&color=0077B5&style=for-the-badge)](https://github.com/kiran8143)
+[![GitHub Followers](https://img.shields.io/github/followers/kiran8143?label=Followers&style=for-the-badge&color=24292e)](https://github.com/kiran8143)
 
 </div>
 
@@ -118,5 +194,5 @@ I don't just understand technology — I understand the **business context** tha
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
